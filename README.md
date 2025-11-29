@@ -1,3 +1,8 @@
+**End to End Project Documentation:** https://deepwiki.com/ViinayKumaarMamidi/GCP_Airflow_News_API_GCS_to_Snowflake_Project
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/ViinayKumaarMamidi/GCP_Airflow_News_API_GCS_to_Snowflake_Project)
+
+
 # 📰 News Data Analysis Project
 
 ## 📋 Project Overview
