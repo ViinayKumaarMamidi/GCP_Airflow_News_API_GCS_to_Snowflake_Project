@@ -1,4 +1,8 @@
-**End to End Project Documentation:** https://deepwiki.com/ViinayKumaarMamidi/GCP_Airflow_News_API_GCS_to_Snowflake_Project
+
+**End to End Project Documentation:** 
+
+https://deepwiki.com/ViinayKumaarMamidi/GCP_Airflow_News_API_GCS_to_Snowflake_Project
+
 
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/ViinayKumaarMamidi/GCP_Airflow_News_API_GCS_to_Snowflake_Project)
 
@@ -325,24 +329,5 @@ This project demonstrates:
 - **Advanced Analytics**: More sophisticated reporting and dashboards
 - **Multi-source Integration**: Support for additional news APIs
 
-### **Technical Enhancements:**
-- **Streaming Processing**: Real-time news processing
-- **Machine Learning**: Predictive analytics for news trends
-- **API Rate Limiting**: Intelligent API usage optimization
-- **Data Lake Integration**: Connect to additional data sources
-- **Performance Monitoring**: Enhanced monitoring and alerting
 
-## 📞 Support
-
-For questions or issues:
-1. Check the troubleshooting section
-2. Review Airflow and application logs
-3. Validate API key and connection settings
-4. Verify GCS bucket access and permissions
-
----
-
-**📰 News Data Analysis - Automated News Intelligence Pipeline**
-
-**📅 Last Updated:** October 2025  
 **🔧 Built with:** NewsAPI, Apache Airflow, Google Cloud Storage, Snowflake, Python
